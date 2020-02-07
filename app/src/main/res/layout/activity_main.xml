@@ -10,7 +10,7 @@
         android:id="@+id/textview1"
         android:layout_width="304dp"
         android:layout_height="110dp"
-        android:fontFamily="sans-serif-thin"
+        android:fontFamily="sans-serif-light"
         android:text="@string/rigel_r"
         android:textAlignment="center"
         android:textColor="#C73023"
